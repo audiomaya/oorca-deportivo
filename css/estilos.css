@@ -1,0 +1,25 @@
+body {
+  background-color: rgb(255, 255, 255);
+  font-family: ;
+  font-size: 20px;
+
+}
+#titulo-banner1{
+  color:rgb(229, 232, 236);
+  text-align: center;
+}
+.coral-bg{
+  background-image: url("/img/img-480-phones/coral-bg-banner1.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: auto;
+  width: 100%;
+  height: 320px;
+}
+.logo-oorca{
+  background-image: url("/img/img-480-phones/logo-oorca.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 40%;
+  height: 220px;
+}
